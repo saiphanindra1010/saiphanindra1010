@@ -12,5 +12,7 @@
 - 🖥️ Find My Portfolio at [www.saiphanindra.com](https://liyasthomas.github.io/banner/)
 - 📖 I write about System design,Backend,Databases and Networking at [www.blog.saiphanindra.com]()
  ## Latest Blogs
-- []()
+ <!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 
