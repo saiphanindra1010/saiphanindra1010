@@ -16,11 +16,11 @@
 - 📖 I write about System design,Backend,Databases and Networking at [www.blog.saiphanindra.com]()
  ## Latest Blogs
  <!-- BLOG-POST-LIST:START -->
-- [Understanding Network Topologies](https://saiphanindra.hashnode.dev/understanding-network-topologies)
-- [Network Protocols for Developers: A Comprehensive Overview](https://saiphanindra.hashnode.dev/network-protocols-for-developers-a-comprehensive-overview)
-- [TCP/IP Fundamentals](https://saiphanindra.hashnode.dev/tcpip-fundamentals)
-- [Encryption, Encoding, and Hashing: Understanding the Differences](https://saiphanindra.hashnode.dev/encryption-encoding-and-hashing-understanding-the-differences)
-- [What is Consensus in Blockchain](https://saiphanindra.hashnode.dev/what-is-consensus-in-blockchain)
+- [Understanding Network Topologies](https://blog.saiphanindra.com/understanding-network-topologies)
+- [Network Protocols for Developers: A Comprehensive Overview](https://blog.saiphanindra.com/network-protocols-for-developers-a-comprehensive-overview)
+- [TCP/IP Fundamentals](https://blog.saiphanindra.com/tcpip-fundamentals)
+- [Encryption, Encoding, and Hashing: Understanding the Differences](https://blog.saiphanindra.com/encryption-encoding-and-hashing-understanding-the-differences)
+- [What is Consensus in Blockchain](https://blog.saiphanindra.com/what-is-consensus-in-blockchain)
 <!-- BLOG-POST-LIST:END -->
 
 
