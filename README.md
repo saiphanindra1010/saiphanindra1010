@@ -12,8 +12,8 @@
 - 🔭 I’m currently working on GameRates
 - 🌱 I’m currently learning about Distrubuted Systems
 - 💬 Ask me about Backend and System design
-- 🖥️ Find My Portfolio at 🖥️ Find My Portfolio at<a href="https://saiphanindra.com/" target="_blank"> https://saiphanindra.com</a>
-- 📖 I write about System design,Backend,Databases and Networking at [www.blog.saiphanindra.com]()
+- 🖥️ Find My Portfolio at 🖥️ Find My Portfolio at [https://saiphanindra.com](https://saiphanindra.com)
+- 📖 I write about System design,Backend,Databases and Networking at [https://blog.saiphanindra.com](https://blog.saiphanindra.com)
  ## Latest Blogs
  <!-- BLOG-POST-LIST:START -->
 - [Understanding Network Topologies](https://blog.saiphanindra.com/understanding-network-topologies)
