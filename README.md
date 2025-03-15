@@ -1,7 +1,7 @@
 ![Black Technology LinkedIn Banner (2)](https://github.com/user-attachments/assets/ed062107-17d9-4670-a0b2-23dc464af19c)
 
 
-  <a href="https://saiphanindra.com/contacts">![Portfolio](https://img.shields.io/badge/Portfolio-2962FF?style=for-the-badge&logo=globe&logoColor=FFFFFF)
+  <a href="https://saiphanindra.com">![Portfolio](https://img.shields.io/badge/Portfolio-2962FF?style=for-the-badge&logo=globe&logoColor=FFFFFF)
   <a href="https://saiphanindra.com/contacts">![X.com](https://img.shields.io/badge/X.com-111111?style=for-the-badge&logo=x&logoColor=FFFFFF)
  <a href="https://x.com/phani_hash">![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=FFFFFF)</a>
 
