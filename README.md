@@ -1,11 +1,12 @@
 ![Black Technology LinkedIn Banner (2)](https://github.com/user-attachments/assets/ed062107-17d9-4670-a0b2-23dc464af19c)
 
 
- ![Portfolio](https://img.shields.io/badge/Portfolio-2962FF?style=for-the-badge&logo=globe&logoColor=FFFFFF)
- ![X.com](https://img.shields.io/badge/X.com-111111?style=for-the-badge&logo=x&logoColor=FFFFFF)
- <a href="mailto:saiphanindra1010@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=FFFFFF)</a>
+  <a href="https://saiphanindra.com/contacts">![Portfolio](https://img.shields.io/badge/Portfolio-2962FF?style=for-the-badge&logo=globe&logoColor=FFFFFF)
+  <a href="https://saiphanindra.com/contacts">![X.com](https://img.shields.io/badge/X.com-111111?style=for-the-badge&logo=x&logoColor=FFFFFF)
+ <a href="https://x.com/phani_hash">![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=FFFFFF)</a>
 
-I'm an **engineer** exploring **Web3** curious about blockchain, smart contracts, and decentralized applications. This GitHub is where I document my learning, share projects, and experiment with new ideas.  
+I'm an **engineer** exploring **Web3** curious about blockchain, smart contracts, and decentralized applications. I document my learnings [notes](https://vercel.com/saiphanindra1010s-projects/w3portfolio/D5Gyz6WN43kR1CoNsvj9VUPwCvnd)
+This GitHub is where I publish projects, and experiment with new ideas.  
 
 
 
