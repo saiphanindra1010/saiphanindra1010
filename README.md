@@ -1,25 +1,37 @@
+![Black Technology LinkedIn Banner (2)](https://github.com/user-attachments/assets/ed062107-17d9-4670-a0b2-23dc464af19c)
 
 
-![banner (2)](https://github.com/saiphanindra1010/saiphanindra1010/assets/52729974/13c7c649-3437-4123-9321-370d838f256b)
-<!---
-<a href="https://www.w3schools.com" >![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=000000)</a>//
+ ![Portfolio](https://img.shields.io/badge/Portfolio-2962FF?style=for-the-badge&logo=globe&logoColor=FFFFFF)
+ ![X.com](https://img.shields.io/badge/X.com-111111?style=for-the-badge&logo=x&logoColor=FFFFFF)
  <a href="mailto:saiphanindra1010@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=FFFFFF)</a>
- ![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=Hashnode&logoColor=FFFFFF)
 
--->
+I'm an **engineer** exploring **Web3** curious about blockchain, smart contracts, and decentralized applications. This GitHub is where I document my learning, share projects, and experiment with new ideas.  
 
- 
-- 🔭 I’m currently working on IPAAS
-- 🌱 I’m currently learning about Distrubuted Systems
-- 💬 Ask me about Backend and System design
-- 📖 I write about System design,Backend,Databases and Networking at [https://blog.saiphanindra.com](https://blog.saiphanindra.com)
- ## Latest Blogs
- <!-- BLOG-POST-LIST:START -->
-- [Understanding Network Topologies](https://blog.saiphanindra.com/understanding-network-topologies)
-- [Network Protocols for Developers: A Comprehensive Overview](https://blog.saiphanindra.com/network-protocols-for-developers-a-comprehensive-overview)
-- [TCP/IP Fundamentals](https://blog.saiphanindra.com/tcpip-fundamentals)
-- [Encryption, Encoding, and Hashing: Understanding the Differences](https://blog.saiphanindra.com/encryption-encoding-and-hashing-understanding-the-differences)
-- [What is Consensus in Blockchain](https://blog.saiphanindra.com/what-is-consensus-in-blockchain)
-<!-- BLOG-POST-LIST:END -->
+
+
+**🔧 Skills :**  
+- **Languages :** JavaScript, TypeScript, Solidity
+- **Web2 and Frameworks :** React, Node.js, Express,MongoDB,PostgreSQL,<!-- **Web3:** -->
+
+- **Dev Tools:** Git, Docker, CI/CD,AWS.  
+<!--
+**📌 Projects:**  
+- **Ethereum Voting dApp** – A decentralized voting system built with Solidity & React  
+- **NFT Minting Platform** – Smart contract + Web3 frontend to create and trade NFTs  
+- **Gas Fee Optimizer** – A tool to estimate and optimize Ethereum transaction costs  
+- **DeFi Yield Tracker** – A dashboard to track and compare DeFi protocol yields  
+
+---
+
+**🚀 What I'm Learning:**  
+- Blockchain fundamentals & decentralization  
+- Writing and deploying smart contracts with Solidity  
+- Using Hardhat, Foundry, and ethers.js for Web3 development  
+- Exploring Layer 2 scaling solutions like Optimistic & ZK Rollups  
+- Building full-stack dApps with Web3 integrations  
+ -->
+
+
+
 
 
