@@ -5,12 +5,12 @@
   <a href="https://saiphanindra.com">
     <img src="https://img.shields.io/badge/Portfolio-2962FF?style=for-the-badge&logo=globe&logoColor=FFFFFF" alt="Portfolio">
   </a>  
-  <a href="https://saiphanindra.com/contacts">
+  <a href="https://x.com/phani_hash">
     <img src="https://img.shields.io/badge/X.com-111111?style=for-the-badge&logo=x&logoColor=FFFFFF" alt="X.com">
   </a>  
-  <a href="https://x.com/phani_hash">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=FFFFFF" alt="Gmail">
-  </a>  
+<a href="mailto:sai.phanindra.godavarthi@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=FFFFFF" alt="Gmail">
+</a>
 </div>  
 
 ---
@@ -20,10 +20,12 @@ I'm an engineer exploring **Web3**, diving into **blockchain, smart contracts, a
 
 ---
 
-## 🔧 Skills  
-- **Languages:** JavaScript, TypeScript, Solidity  
-- **Web2 & Frameworks:** React, Node.js, Express, MongoDB, PostgreSQL  
-- **Dev Tools:** Git, Docker, CI/CD, AWS  
+## 🔧 Skills
+
+- **Languages:** JavaScript, TypeScript, Solidity, Rust, Python  
+- **Frameworks & Libraries:** React, Node.js, Express, Hardhat, Foundry, Ethers.js, Web3.js  
+- **Databases & Infra:** MongoDB, PostgreSQL, AWS, Docker, Git, CI/CD
+
 
 <!-- 
 ---
@@ -33,7 +35,7 @@ I'm an engineer exploring **Web3**, diving into **blockchain, smart contracts, a
 - **NFT Minting Platform** – Smart contract + Web3 frontend to create and trade NFTs  
 - **Gas Fee Optimizer** – A tool to estimate and optimize Ethereum transaction costs  
 - **DeFi Yield Tracker** – A dashboard to track and compare DeFi protocol yields  
-
+- **Blockchain Tools:** MetaMask, WalletConnect, The Graph, Chainlink, IPFS, Alchemy, Infura  
 ---
 
 ## 🚀 What I'm Learning  
