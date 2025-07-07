@@ -48,5 +48,5 @@ I'm an engineer exploring **Web3**, diving into **blockchain, smart contracts, a
 -->
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Blockchain and Practical Use Cases](https://www.saiphanindra.com//blog/blockchainusecases)
 <!-- BLOG-POST-LIST:END -->
