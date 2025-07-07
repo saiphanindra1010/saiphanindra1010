@@ -17,3 +17,4 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://www.saiphanindra.com/api/rss.xml"
+          custom_tags: "item"
