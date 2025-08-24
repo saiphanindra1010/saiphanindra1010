@@ -49,5 +49,7 @@ I'm an engineer exploring **Web3**, diving into **blockchain, smart contracts, a
 
 ## 📘 My Latest Blogs 
 <!-- BLOG-POST-LIST:START -->
+- [Solidity A Comprehensive Guide](https://www.saiphanindra.com//blog/solidity-part1)
 - [Blockchain and Practical Use Cases](https://www.saiphanindra.com//blog/blockchainusecases)
+- [what-are-consensus](https://www.saiphanindra.com//blog/what-are-consensus)
 <!-- BLOG-POST-LIST:END -->
