@@ -1,4 +1,4 @@
-
+  <!--
 ![Black Technology LinkedIn Banner (3)](https://github.com/user-attachments/assets/fb97b053-15e1-401c-9405-f3b01a3d7b75)
 
 <div align="center">  
@@ -46,10 +46,11 @@ I'm an engineer exploring **Web3**, diving into **blockchain, smart contracts, a
 - Building full-stack dApps with Web3 integrations  
 
 -->
-
+  <!--
 ## 📘 My Latest Blogs 
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START --
 - [Solidity A Comprehensive Guide](https://www.saiphanindra.com//blog/solidity-part1)
 - [Blockchain and Practical Use Cases](https://www.saiphanindra.com//blog/blockchainusecases)
 - [what-are-consensus](https://www.saiphanindra.com//blog/what-are-consensus)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:END --
+-->
