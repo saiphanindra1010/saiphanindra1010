@@ -6,5 +6,5 @@
 ## ✏️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond the Browser: Writing Raw HTTP Requests &lpar;Theory &amp; Code Implementation&rpar;](https://www.saiphanindra.com//blog/http_from_scratch)
+- [Writing Raw HTTP Over TCP with Sockets](https://www.saiphanindra.com//blog/http_from_scratch)
 <!-- BLOG-POST-LIST:END -->
