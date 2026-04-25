@@ -2,14 +2,14 @@ I am a Software Engineer specializing in Platform and Backend Systems. I build t
 
 ## Technical Toolkit
 
-**Languages**  
-Go (Golang), Python, Node.js, TypeScript  
+**Languages & Runtimes**  
+Go (Golang), Python, TypeScript, JavaScript (Node.js), FastAPI, Gin  
 
 **Cloud & Orchestration**  
 AWS (EKS, Lambda, S3, RDS), Kubernetes, Docker, Terraform, Helm  
 
-**Architecture & Protocols**  
-Microservices, Event-Driven Systems, gRPC, REST, Service Mesh (Istio), Backend for Frontend (BFF)  
+**Backend & Distributed Systems**  
+Microservices, Event-Driven Systems, gRPC, REST, GraphQL, Kafka, RabbitMQ, Service Mesh (Istio)  
 
 **Observability**  
 Prometheus, Grafana, OpenTelemetry, Distributed Tracing  
