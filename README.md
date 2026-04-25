@@ -14,16 +14,16 @@ Microservices, Event-Driven Systems, gRPC, REST, Service Mesh (Istio), Backend f
 **Observability**  
 Prometheus, Grafana, OpenTelemetry, Distributed Tracing  
 
----
+
 
 ## Side Projects
 
 - [YTChatGuard](https://github.com/saiphanindra1010/YTChatGuard)
 
   
----
 
-### Latest Blog Posts
+
+## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Writing Raw HTTP Over TCP with Sockets](https://www.saiphanindra.com//blog/http_from_scratch)
