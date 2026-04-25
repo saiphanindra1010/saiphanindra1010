@@ -18,7 +18,7 @@ Prometheus, Grafana, OpenTelemetry, Distributed Tracing
 
 ## Side Projects
 
-- [YTChatGuard](https://github.com/saiphanindra1010/YTChatGuard)
+- [YTChatGuard](https://github.com/saiphanindra1010/YTChatGuard) - Real-time AI moderation for YouTube Live chat, filtering spam and toxic messages
 
   
 
