@@ -17,7 +17,7 @@ Prometheus, Grafana, OpenTelemetry, Distributed Tracing
 
 
 ## Side Projects
-
+- [Techdigest](http://techdigest.saiphanindra.com/) - a minimal feed aggregator to keep up with hundreds of tech blogs in one place.
 - [YTChatGuard](https://github.com/saiphanindra1010/YTChatGuard) - Real-time AI moderation for YouTube Live chat, filtering spam and toxic messages
 
   
