@@ -17,8 +17,11 @@ Prometheus, Grafana, OpenTelemetry, Distributed Tracing
 
 
 ## Side Projects
+- [pg_vitals](https://github.com/saiphanindra1010/pg_vitals) - A modern terminal UI for **live PostgreSQL performance analysis**. Built for
+operators, DBAs, and backend engineers who want to know *what their database is
+doing right now* without leaving the terminal.
 - [Techdigest](http://techdigest.saiphanindra.com/) - a minimal feed aggregator to keep up with hundreds of tech blogs in one place.
-- [YTChatGuard](https://github.com/saiphanindra1010/YTChatGuard) - Real-time AI moderation for YouTube Live chat, filtering spam and toxic messages
+- [SafeStream](https://github.com/saiphanindra1010/SafeStream) - Real-time AI moderation for YouTube Live chat, filtering spam and toxic messages
 
   
 
