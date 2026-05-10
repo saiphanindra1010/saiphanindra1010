@@ -29,5 +29,9 @@ doing right now* without leaving the terminal.
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Writing Raw HTTP Over TCP with Sockets](https://www.saiphanindra.com//blog/http_from_scratch)
+- [Streaming Like ChatGPT: Build Server-Sent Events from Scratch](https://www.saiphanindra.com//blog/sse_streaming)
+- [WebSockets in Production: Heartbeats, Reconnects, and Backpressure](https://www.saiphanindra.com//blog/websockets_inprod)
+- [Inside a TLS 1.3 Handshake: From ClientHello to Encrypted HTTP](https://www.saiphanindra.com//blog/tls_part2)
+- [SSL vs TLS vs HTTPS: The Mental Model Behind Every Secure Website](https://www.saiphanindra.com//blog/tls_part1)
+- [How Email Actually Gets Delivered: SMTP, Queues, Retries, and Trust](https://www.saiphanindra.com//blog/smtp)
 <!-- BLOG-POST-LIST:END -->
