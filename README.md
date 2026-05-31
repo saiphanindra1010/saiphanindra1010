@@ -33,5 +33,5 @@ doing right now* without leaving the terminal.
 - [Inside a TLS 1.3 Handshake: From ClientHello to Encrypted HTTP](https://www.saiphanindra.com//blog/tls_part2)
 - [SSL vs TLS vs HTTPS: The Mental Model Behind Every Secure Website](https://www.saiphanindra.com//blog/tls_part1)
 - [Streaming Like ChatGPT: Build Server-Sent Events from Scratch](https://www.saiphanindra.com//blog/sse_streaming)
-- [How Email Actually Gets Delivered: SMTP, Queues, Retries, and Trust](https://www.saiphanindra.com//blog/smtp)
+- [How I gave my AI tools a shared memory using MCP and pgvector](https://www.saiphanindra.com//blog/mcp)
 <!-- BLOG-POST-LIST:END -->
