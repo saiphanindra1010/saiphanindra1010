@@ -17,6 +17,7 @@ Prometheus, Grafana, OpenTelemetry, Distributed Tracing
 
 
 ## Side Projects
+- [SessionVault](https://github.com/saiphanindra1010/SessionVault) - Shared session memory for MCP clients that enables AI applications to persist and reuse structured context across sessions. Provides MCP tools for saving, loading, semantic search, listing, and deleting sessions, with embedding-based retrieval and API-key authentication. Designed for integration with Claude Desktop, Cursor, and VS Code through a remote MCP server.
 - [pg_vitals](https://github.com/saiphanindra1010/pg_vitals) - A modern terminal UI for **live PostgreSQL performance analysis**. Built for
 operators, DBAs, and backend engineers who want to know *what their database is
 doing right now* without leaving the terminal.
