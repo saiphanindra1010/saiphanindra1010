@@ -1,6 +1,6 @@
 I am a Software Engineer specializing in Platform and Backend Systems. I build the core systems behind high-throughput, low-latency SaaS platforms, focusing on systems-level engineering, scalable primitives, service decoupling, and reliability under heavy load. My work includes high-concurrency, memory-safe services using Go for performance-critical paths and Node.js/Python for APIs and async systems, along with cloud-native infrastructure on AWS using Kubernetes and Docker, and platform orchestration through CI/CD, service meshes, and automation. I specialize in decomposing monoliths into resilient, independently scalable services, enabling fault isolation, multi-tenant efficiency, and predictable performance in distributed environments.
 
-## Technical Toolkit
+## Technical Tools
 
 **Languages & Runtimes**  
 Go (Golang), Python, TypeScript, JavaScript (Node.js), FastAPI, Gin  
