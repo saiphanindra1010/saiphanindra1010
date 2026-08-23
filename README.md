@@ -33,5 +33,6 @@ doing right now* without leaving the terminal.
 - [How I gave my AI tools a shared memory using MCP and pgvector](https://www.saiphanindra.com//blog/shared-ai-memory-mcp-pgvector)
 - [WebSockets in Production: Heartbeats, Reconnects, and Backpressure](https://www.saiphanindra.com//blog/websockets_inprod)
 - [Streaming Like ChatGPT: Build Server-Sent Events from Scratch](https://www.saiphanindra.com//blog/sse_streaming)
-- [How Email Actually Gets Delivered: SMTP, Queues, Retries, and Trust](https://www.saiphanindra.com//blog/smtp)
+- [TLS for Backend Engineers: The Handshake and Where It Breaks](https://www.saiphanindra.com//blog/tls_for_backend_engineers)
+- [Writing Raw HTTP Over TCP with Sockets](https://www.saiphanindra.com//blog/http_from_scratch)
 <!-- BLOG-POST-LIST:END -->
